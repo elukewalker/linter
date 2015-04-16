@@ -19,7 +19,7 @@ Node.js must be installed and on the PATH. Install [Node.js](https://nodejs.org/
 
 ## Command line interface
 	
-	python linter --jsoninput '{\"path\":\"../test\"}"
+	python linter --jsoninput '{\"path\":\"../test\"}'
 
 
 
