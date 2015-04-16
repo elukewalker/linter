@@ -10,7 +10,7 @@ JsonLint challenge.
 
 ## Dependencies
 
-Python must be installed and on the PATH.  Install [Python](https://www.python.org/)
+Python3 must be installed and on the PATH.  Install [Python3](https://www.python.org/)
 
 Node.js must be installed and on the PATH. Install [Node.js](https://nodejs.org/)
 
